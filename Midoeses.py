@@ -1,5 +1,5 @@
-def Midoeses:
-	print (Midoeses)
-	print (Mohamed.mohamed)
+def Midoeses():
+	print ("Midoeses")
+	print ("Mohamed.mohamed")
 
 
