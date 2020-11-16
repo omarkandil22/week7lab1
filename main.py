@@ -1,6 +1,6 @@
-import  Midoeses.py,Xx_MKTD_Xx.py
+import  Midoeses.py,XxMKTDXx.py
 Midoeses()
-Xx_MKTD_Xx()
+XxMKTDXx()
 
 
 
